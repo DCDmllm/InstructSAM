@@ -1,0 +1,10 @@
+reason_seg_cat.json 10
+roboafford_paco.json 1
+refcoco.json 2
+refcoco+.json 2
+refcocog.json 2
+grefcoco_single.json 2
+refclef.json 2
+lisa_plus_cot.json 2
+lisa_plus_instance.json 2
+inst2seg.json 1

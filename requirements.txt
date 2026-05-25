@@ -1,0 +1,10 @@
+deepspeed==0.18.2
+ffmpeg-python==0.2.0
+datasets==3.6.0
+peft==0.18.0
+accelerate==1.12.0
+transformers @ git+https://github.com/huggingface/transformers.git@9269c1b2ff62bfc81e99eea8c48431809f2e196e
+pycocotools
+tensorboardX
+scipy
+qwen_vl_utils

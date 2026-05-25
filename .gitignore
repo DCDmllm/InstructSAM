@@ -1,0 +1,62 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+
+# Log
+*.log
+*.log.*
+*.jsonl
+log_dir*/
+temp*/
+
+# data
+./data
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+3rd_parties
+
+# jupyter
+.ipynb_checkpoints
+
+# DevContainer
+!.devcontainer/*
+
+# Demo
+serve_images/
+temp/
+
+# data folder
+dataset/
+datasets/
+
+# training folder
+wandb
+ckpts*
+output
+output/
+checkpoints
+checkpoints/
+work_dirs*/
+
+# evaluation folder
+# /eval
+# /eval*
+/eval_output
+
+# pretrained weights
+pretrained/
+publish_models/
+public_models/
+test_data/
+debug_scripts
+
+vis*/
+*visualization/
+core-*
