@@ -9,8 +9,19 @@
 
 </div>
 
+<table>
+  <tr>
+    <td><img src="assets/visual_demo/1.gif" width="250"></td>
+    <td><img src="assets/visual_demo/2.gif" width="250"></td>
+    <td><img src="assets/visual_demo/3.gif" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/visual_demo/5.gif" width="250"></td>
+    <td><img src="assets/visual_demo/6.gif" width="250"></td>
+    <td><img src="assets/visual_demo/7.gif" width="250"></td>
+  </tr>
+</table>
 
-https://github.com/user-attachments/assets/39753d3c-c4ff-4fb9-af6f-d96baf63d45b
 
 ## Overview
 
