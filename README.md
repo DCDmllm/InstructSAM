@@ -110,3 +110,12 @@ Edit the dataset roots in each script before running. The Python evaluation file
 ## Citation
 
 If you find this project useful, please cite using this BibTeX:
+
+```bibtex
+@article{yuan2026instructsam,
+  title     = {InstructSAM: Segment Any Instance with Any Instructions},
+  author    = {Yuqian Yuan, Wentong Li, Zhaocheng Li Yutong Lin, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang, Wenqiao Zhang},
+  year      = {2026},
+  journal   = {arXiv},
+}
+```
