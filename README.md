@@ -2,7 +2,7 @@
 
 # InstructSAM: Segment Any Instance with Any Instructions
 
-[![arXiv preprint](https://img.shields.io/badge/Arxiv-2510.23603-ECA8A7?logo=arxiv)](https://arxiv.org/abs/2510.23603)
+[![arXiv preprint](https://img.shields.io/badge/Arxiv-2605.26102-ECA8A7?logo=arxiv)](https://arxiv.org/abs/2605.26102)
 [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-E6A151)](https://huggingface.co/CircleRadon/InstructSAM-2B)
 [![Data](https://img.shields.io/badge/Dataset-Huggingface-7EBDC2)](https://huggingface.co/datasets/CircleRadon/Inst2Seg)
 [![Benchmark](https://img.shields.io/badge/Benchmark-Huggingface-B8A1E6)](https://huggingface.co/datasets/CircleRadon/Inst2Seg-Bench)
