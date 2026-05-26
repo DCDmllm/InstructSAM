@@ -6,6 +6,7 @@
 [![Huggingface](https://img.shields.io/badge/Model-HuggingFace-E6A151)](https://huggingface.co/CircleRadon/InstructSAM-2B)
 [![Data](https://img.shields.io/badge/Dataset-Huggingface-7EBDC2)](https://huggingface.co/datasets/CircleRadon/Inst2Seg)
 [![Benchmark](https://img.shields.io/badge/Benchmark-Huggingface-B8A1E6)](https://huggingface.co/datasets/CircleRadon/Inst2Seg-Bench)
+[![YouTube](https://img.shields.io/badge/Video-YouTube-B22222?logo=youtube&logoColor=white)](https://youtu.be/26-yJqE8wBQ)
 
 </div>
 
